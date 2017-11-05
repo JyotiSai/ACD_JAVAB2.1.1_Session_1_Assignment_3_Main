@@ -1,6 +1,6 @@
-package session1assignments;
+package session1assignments; // Package declaration
 
-import java.util.Scanner; //Imports Scanner class to read inputs from the keyboard
+import java.util.Scanner; // Imports Scanner class to read inputs from the keyboard
 /**
  * This class compares the truth table of Bitwise AND and Logical AND
  *
@@ -8,7 +8,7 @@ import java.util.Scanner; //Imports Scanner class to read inputs from the keyboa
 public class BitwiseANDlogical
 {
 	/**
-	 * This is the main method and execution starts here.
+	 * This is the main method which accepts command line arguments and returns no value.
 	 */
 	public static void main(String[] args)
 	{
